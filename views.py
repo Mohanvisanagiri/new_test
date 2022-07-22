@@ -5,3 +5,8 @@ class HomePageView(TemplateView):
 
 class AboutPage(TemplateView):
     template_name = 'about.html'
+    
+    
+Mohan
+@gmail
+password
